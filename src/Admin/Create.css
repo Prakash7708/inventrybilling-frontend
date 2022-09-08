@@ -1,0 +1,27 @@
+.creatediv{
+    display: grid;
+    justify-items: center;
+    height: 100vh;
+    
+    color: rgb(184, 25, 25);
+    background-color: rgb(250, 235, 235);
+}
+.datails{
+    background-color: blue;
+}
+.btncreate{
+    margin-top: 20px;
+    margin-left: 600px;
+   
+}
+.creatediv h1{
+    margin-left: 300px;
+    font-weight: 900;
+    letter-spacing: 5px;
+}
+.creatediv label{
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: larger;
+    letter-spacing: 1px;
+}

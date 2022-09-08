@@ -1,0 +1,13 @@
+.login{
+    background-color: rgb(199, 199, 201);
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
+.login h1{
+    margin-left: 170px;
+}
+.container1{
+    /* background-color: rgb(190, 190, 190); */
+    width: 500px;
+}
